@@ -1,0 +1,23 @@
+p {
+    border: 3px solid rgb(red, green, blue);
+    background-color: rgb(255, 180, 226);
+    height: 200px;
+    width: 200px;
+}
+
+ /* .style1{
+    display: flex;
+}  */
+
+ .style1 {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+} 
+
+h3 {
+    font-style: italic;
+    color: hotpink;
+}
+body {
+    background-color: antiquewhite;
+}

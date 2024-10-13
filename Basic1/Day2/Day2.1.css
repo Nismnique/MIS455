@@ -1,0 +1,18 @@
+p {
+    margin: 10px;
+    padding: 10px;
+    background-color: rgb(14, 195, 195);
+    border: 2px solid;
+    border-radius: 5px;
+    width: 50%;
+
+}
+
+
+
+.different{
+       
+        width: 100px;
+        border-radius: 50%;
+    
+}

@@ -1,0 +1,46 @@
+
+
+ h1{
+    font-style: italic;
+    text-align: center;
+    color: rgb(255, 147, 165);
+    padding-right: 90px;
+ }
+
+ .style2{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr)
+ }
+
+ 
+ body{
+    background-color: rgb(252, 226, 226);
+    padding-left: 75px;
+    
+ }
+
+ .part{
+    width: 150px;
+    height: 150px;
+    border-radius: 20%;
+    padding-top: 30px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+ }
+ p{
+    width: 4in;
+    height: 3in;
+    text-align: center;
+    font-size: 70%;
+    border: 3px solid rgb(255, 164, 164);
+    outline-style: solid;
+    outline-color: rgb(255, 171, 171);
+    outline-width: thin;
+    border-radius: 20%;
+    color: rgb(145, 71, 83);
+  
+  
+    
+
+ }
