@@ -1,0 +1,57 @@
+
+
+ h1{
+    font-style: italic;
+    text-align: center;
+    color: rgb(255, 147, 165);
+   
+ }
+
+ .style2{
+    /* display: grid;
+    grid-template-columns: repeat(3, 1fr) */
+    display: flex;
+    justify-content: space-evenly;
+   
+    flex-wrap: wrap;
+    gap: 20px;
+    /* column-gap: 100px ; */
+    /* column-count: 3; */
+   
+ }
+
+ body{
+    background-color: rgb(252, 226, 226);
+    
+    
+ }
+
+ .part{
+    width: fit-content;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 20%;
+    margin-bottom: 10px;
+    
+ }
+ .boxes{
+    width: 300px;
+   
+    text-align: center;
+    font-size: 70%;
+    border: 3px solid rgb(255, 164, 164);
+    outline-style: solid;
+    outline-color: rgb(255, 171, 171);
+    outline-width: thin;
+    padding: 20px;
+    
+    color: rgb(145, 71, 83);
+  
+  }
+
+  .flower{
+    font-size: medium;
+    font-style: italic;
+    color: rgb(216, 62, 88);
+    
+  }

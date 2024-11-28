@@ -1,0 +1,10 @@
+#contentArea {
+
+    margin: 20px;
+    padding: 15px;
+    border: 2px solid rgb(215, 137, 137);
+    background-color: rgb(225, 193, 153);
+    border-radius:15px;
+    box-shadow: 4px 3px 5px, grey;
+
+}

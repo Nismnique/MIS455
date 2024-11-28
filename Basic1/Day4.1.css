@@ -1,0 +1,11 @@
+.outer{
+    display: flex;
+
+}
+
+.inner{
+      height: 200px;
+    background-color: antiquewhite;
+    
+
+}
